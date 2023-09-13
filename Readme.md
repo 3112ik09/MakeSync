@@ -25,7 +25,7 @@ Video Results:
 2. Use video editor tools to crop video into part.
     1. Part where the person is visible 
     2. Part where the person is not visible 
-3. The apple Wav2Lip model in the visble 
+3. The apple Wav2Lip model in which the person is visble. 
 
 <hr>
 
