@@ -1,4 +1,15 @@
 # LipSync :
+
+**Drive Link:**
+https://drive.google.com/drive/folders/1nqK8s94LkA7oe5KgOYIQfCcKTFXaU7ny?usp=sharing
+<br>
+Video Results:
+1. Result   https://drive.google.com/file/d/1dsfUPvzRU676HJ5Ha0QkdjIXRMeytxAb/view?usp=drive_link
+2. Result   https://drive.google.com/file/d/1fJl3ReoWfy_X9OOsId8p50Yz_7GqnYB7/view?usp=sharing
+3. Result   https://drive.google.com/file/d/1SPBmYjDCTgdtJUOnQiFmer2ZUrL6YZIG/view?usp=sharing
+
+<hr>
+
 ## **Quick guide**
 1. Create video file named input_video.mp4 - audio track removed
 2. Create audio file named input_audio.wav 
@@ -54,7 +65,7 @@ It uses:
 
 
 Video Link: 
-https://drive.google.com/file/d/1fJl3ReoWfy_X9OOsId8p50Yz_7GqnYB7/view?usp=sharing]
+https://drive.google.com/file/d/1fJl3ReoWfy_X9OOsId8p50Yz_7GqnYB7/view?usp=sharing
 
 <hr>
 
