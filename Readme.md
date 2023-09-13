@@ -27,6 +27,8 @@
 **Model 1**
 Every thing is explained in the nootbook .
 
+
+
 **Model 2**
 Every thing is explained in the nootbook .
 It uses:  
@@ -37,9 +39,19 @@ It uses:
     padding : U = -10 , L=0 , R=0 , D=-10
     If using images in batch : Batch_process==True
 
+Video ![Link][]
+
 
 **Ouput**
 1. Append all the video clip together in sequence . (i.e with face and without faces)
-2. 
+2. Edit video 
+
+**Special Operation**
+to improve the quality used gan on the output video 
+Disadvantage:
+-> looks not real
+Advantages:
+-> improved quality of lip movement:
+
 
 
