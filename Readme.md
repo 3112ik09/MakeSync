@@ -4,7 +4,7 @@
 https://drive.google.com/drive/folders/1nqK8s94LkA7oe5KgOYIQfCcKTFXaU7ny?usp=sharing
 <br>
 Video Results:
-1. Result   https://drive.google.com/file/d/1dsfUPvzRU676HJ5Ha0QkdjIXRMeytxAb/view?usp=drive_link
+1. Result   https://drive.google.com/file/d/1dsfUPvzRU676HJ5Ha0QkdjIXRMeytxAb/view?usp=sharing
 2. Result   https://drive.google.com/file/d/1fJl3ReoWfy_X9OOsId8p50Yz_7GqnYB7/view?usp=sharing
 3. Result   https://drive.google.com/file/d/1SPBmYjDCTgdtJUOnQiFmer2ZUrL6YZIG/view?usp=sharing
 
@@ -48,7 +48,7 @@ Colab link:
 https://colab.research.google.com/drive/1ZrtU9cu9Oq2E8lKRE6VPabgPOWLr-iri
 
 Video Result:
-https://drive.google.com/file/d/1dsfUPvzRU676HJ5Ha0QkdjIXRMeytxAb/view?usp=drive_link
+https://drive.google.com/file/d/1dsfUPvzRU676HJ5Ha0QkdjIXRMeytxAb/view?usp=sharing
 
 <br>
 
